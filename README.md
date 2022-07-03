@@ -60,7 +60,7 @@ converting it into a CSV file. The training database is created by training
 the system with the faces of the authorized students. The cropped images
 are then stored in a database with respective labels. The features are
 extracted using the LBPH algorithm.
-5
+
 
 
 
