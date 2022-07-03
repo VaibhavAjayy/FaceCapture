@@ -97,7 +97,7 @@ student attendance system automated.
 <img width="419" alt="image" src="https://user-images.githubusercontent.com/88434684/177025998-1c0262ca-afe1-4de8-b8db-a8801a93a3dc.png">
  <img width="401" alt="image" src="https://user-images.githubusercontent.com/88434684/177026006-df6c4dcc-3c6b-4e78-813d-4e11cb9e6341.png">
 
-AND CAN DOWNLOAD THIS ATTEDANCE SHEET AS PDF.
+WE CAN ALSO DOWNLOAD THIS ATTEDANCE SHEET IN PDF FORMAT.
 
 ## Contributing
 I'm unsure whether anyone would want to help out with this project. However, any contributions are appreciated. Additionally, if you enjoy it, star this repository. It helps me stay inspired.
