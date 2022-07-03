@@ -61,6 +61,9 @@ the system with the faces of the authorized students. The cropped images
 are then stored in a database with respective labels. The features are
 extracted using the LBPH algorithm.
 5
+
+
+
 Introduction :- 
 Nowadays, educational institutions are worried about student attendance
 consistency. This is mostly owing to the fact that a student's attendance at
